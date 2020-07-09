@@ -1,0 +1,9 @@
+title: Location
+type: object
+properties:
+  lat:
+    type: number
+  long:
+    type: number
+  geoTracking:
+    type: boolean
